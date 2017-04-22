@@ -1,0 +1,16 @@
+<svg height="206" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="206" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-22 12:48:49 +0000    19732 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-22 12:48:49 +0000    11209 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-22 12:48:49 +0000     1677 bytes  angular.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-22 12:48:49 +0000      620 bytes  angular.ts</tspan>
+<tspan x="10" y="90">  4.  2017-04-22 12:48:49 +0000      584 bytes  i18n.android.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-22 12:48:49 +0000      381 bytes  i18n.ios.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-22 12:48:49 +0000     4239 bytes  lib/before-prepare.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-22 12:48:49 +0000      874 bytes  package.json</tspan>
+<tspan x="10" y="154">  8.  2017-04-22 12:48:49 +0000       63 bytes  postinstall.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-22 12:48:49 +0000       65 bytes  preuninstall.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-22 12:48:49 +0000       20 bytes  references.d.ts</tspan>
+</text>
+</svg>
